@@ -9,7 +9,7 @@ Depth-Anything:
 
 
 ## object_detection:
-- cd object_detection
+- cd object_detection: #
 - python object_detection.py
 
 
