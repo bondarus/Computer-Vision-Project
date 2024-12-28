@@ -10,19 +10,19 @@ Depth-Anything:
 
 ## object_detection:
 - cd object_detection
-  python object_detection.py
+- python object_detection.py
 
 
 ## instance_segmentation:
 - cd instance_segmentation
-  python instance_segmentation.py
+- python instance_segmentation.py
 
 
 # license_plate_detection:
 - cd license_plate_detection
-  python license_plate_detection.py
+- python license_plate_detection.py
 
 
 ## distance_estimation:
 - cd distance_estimation
-  python distance_estimation.py
+- python distance_estimation.py
