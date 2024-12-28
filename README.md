@@ -2,7 +2,7 @@
 
 This project involves using different models and methods to obtain results from video footages.
 
-Depth-Anything:
+## Depth-Anything:
 - You can find the model to download and following steps from this link: https://github.com/LiheYoung/Depth-Anything/tree/main
 ```
 cd Depth-Anythin
