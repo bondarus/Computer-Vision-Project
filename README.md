@@ -32,3 +32,9 @@ python license_plate_detection.py
 cd distance_estimation
 python distance_estimation.py
 ```
+
+## vehicle_bicycle_distance_estimation:
+```
+cd vehicle_bicycle_distance_estimation
+python vehicle_bicycle_distance_estimation.py
+```
